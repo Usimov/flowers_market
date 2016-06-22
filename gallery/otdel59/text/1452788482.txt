@@ -1,0 +1,16 @@
+Full House Gele Rand
+
+
+
+<?=$dir[4]?>
+
+
+0
+0
+
+
+<?=$dir[11]?>
+
+rub
+
+

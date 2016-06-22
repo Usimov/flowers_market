@@ -1,0 +1,16 @@
+Doria Cherry santini
+50-0.11
+
+
+<?=$dir[4]?>
+
+
+0
+0
+
+
+<?=$dir[11]?>
+
+rub
+
+

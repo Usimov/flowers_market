@@ -1,0 +1,16 @@
+Yellow Palm Leaf
+
+15
+
+<?=$dir[4]?>
+
+
+0
+0
+
+
+<?=$dir[11]?>
+
+rub
+
+
